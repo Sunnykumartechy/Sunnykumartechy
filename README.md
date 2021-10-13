@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sunnykumartechy
+- 👀 I’m interested in webdevelopment,softwaredevelopment,gsoc
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on webdevelopment projects
+- 📫 How to reach me at linkdein https://www.linkedin.com/in/sunny-kumar-78b699220,  sunnykumarprofessional@gmail.com
